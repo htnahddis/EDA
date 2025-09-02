@@ -4,5 +4,7 @@
  3. Standardisation.
  4. Handling Invalid Values.
 
- ## Handling Missing Value
- Delete Rows, Replacing with mean/median/mode, algorithmic imputation, prediction of missing value. 
+## Handling Missing Value
+ Delete Rows, Replacing with mean/median/mode, algorithmic imputation, prediction of missing value.
+
+ Feature scaling is important,  
